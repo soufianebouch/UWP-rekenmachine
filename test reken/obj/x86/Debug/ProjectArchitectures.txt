@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\My.First.UWPApp\test reken\test reken.csproj;x86
+C:\Users\Student\source\repos\My.First.UWPApp\TestReken.Library\TestReken.Library.csproj;x86
